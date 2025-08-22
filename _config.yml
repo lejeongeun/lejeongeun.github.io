@@ -5,7 +5,7 @@ url: "https://lejeongeun.github.io"   # ← 본인 GitHub Pages 주소
 baseurl: ""                          # 꼭 빈 값 (username.github.io면)
 
 # ✅ Minimal Mistakes 테마 불러오기
-remote_theme: "mmistakes/minimal-mistakes@latest"
+remote_theme: "mmistakes/minimal-mistakes"
 
 # ✅ 스킨 선택
 minimal_mistakes_skin: "air"
