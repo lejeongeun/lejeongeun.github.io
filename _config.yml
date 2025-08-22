@@ -20,7 +20,8 @@ plugins:
 # 메뉴 (선택)
 include:
   - _pages
-
+navigation:
+  main: _data/navigate.yml
 # 기본 레이아웃 옵션
 defaults:
   - scope:
